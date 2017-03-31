@@ -1,0 +1,11 @@
+127.0.0.1 60001 available 
+127.0.0.1 60002 available
+127.0.0.1 60003 available 
+127.0.0.1 60004 available 
+127.0.0.1 60005 available 
+127.0.0.1 60006 available 
+127.0.0.1 60007 available 
+127.0.0.1 60008 available 
+127.0.0.1 60009 available 
+127.0.0.1 60010 available 
+127.0.0.1 60011 available 
