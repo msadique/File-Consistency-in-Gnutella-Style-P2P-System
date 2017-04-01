@@ -1,0 +1,39 @@
+Input Format : java Client <Client Name> <TTL> <Flush Time>
+Hello
+
+---------------------
+PULL & PUSH ON
+---------------------
+
+127.0.0.1 41001 taken
+127.0.0.1 41002 available
+127.0.0.1 41003 available
+127.0.0.1 41004 available
+127.0.0.1 41005 available
+127.0.0.1 41006 available
+127.0.0.1 41007 available
+127.0.0.1 41008 available
+127.0.0.1 41009 available
+127.0.0.1 41010 available
+1. 127.0.0.141002
+2. 127.0.0.141003
+3. 127.0.0.141004
+4. 127.0.0.141005
+5. 127.0.0.141006
+6. 127.0.0.141007
+7. 127.0.0.141008
+8. 127.0.0.141009
+9. 127.0.0.141010
+127.0.0.1  41001
+
+ Client listening on 41001
+Version Size :-1090
+mv1 tmp.txt fileVersion.txt
+
+
+	1. Lookup Files
+	2. Refress Files
+	3. Exit 
+	Enter :- 
+
+ Enter File name :-F2_1KB.txtFile is Already Exist

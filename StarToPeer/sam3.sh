@@ -1,0 +1,10 @@
+cp Client1/output.txt Output/Client1.txt
+cp Client2/output.txt Output/Client2.txt
+cp Client3/output.txt Output/Client3.txt
+cp Client4/output.txt Output/Client4.txt
+cp Client5/output.txt Output/Client5.txt
+cp Client6/output.txt Output/Client6.txt
+cp Client7/output.txt Output/Client7.txt
+cp Client8/output.txt Output/Client8.txt
+cp Client9/output.txt Output/Client9.txt
+cp Client10/output.txt Output/Client10.txt

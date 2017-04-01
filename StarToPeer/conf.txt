@@ -1,0 +1,10 @@
+127.0.0.1 40001 available 
+127.0.0.1 40002 available
+127.0.0.1 40003 available 
+127.0.0.1 40004 available 
+127.0.0.1 40005 available 
+127.0.0.1 40006 available 
+127.0.0.1 40007 available 
+127.0.0.1 40008 available 
+127.0.0.1 40009 available 
+127.0.0.1 40010 available 
